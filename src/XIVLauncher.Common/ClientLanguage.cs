@@ -7,7 +7,8 @@ namespace XIVLauncher.Common
         Japanese,
         English,
         German,
-        French
+        French,
+        Korean
     }
 
     public static class ClientLanguageExtensions
@@ -30,6 +31,9 @@ namespace XIVLauncher.Common
 
                 case ClientLanguage.French:
                     return "fr";
+
+                case ClientLanguage.Korean:
+                    return "ko";
 
                 default:
                     return "en-gb";
