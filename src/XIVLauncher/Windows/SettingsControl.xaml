@@ -102,7 +102,6 @@
                         <ComboBoxItem>English</ComboBoxItem>
                         <ComboBoxItem>Deutsch</ComboBoxItem>
                         <ComboBoxItem>Français</ComboBoxItem>
-                        <ComboBoxItem>한국어</ComboBoxItem>
                     </ComboBox>
 
                     <TextBlock HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0, 20, 0, 0"
